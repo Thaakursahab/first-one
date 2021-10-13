@@ -1,2 +1,1 @@
-line to check merge conflict
-appended some lines to merge_1.txt
+replacing the content of this file to merge later
